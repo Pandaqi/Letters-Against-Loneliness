@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="postoffice_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="206.6283218504" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="IARL" value="Logic Pro X"/>
+		<tag name="Copyright message" value="2021 Epic Stock Media (Empire Game) https://epicstockmedia.com"/>
+		<tag name="time_reference" value="362626187"/>
+		<tag name="Encoded by" value="Logic Pro X"/>
+		<tag name="ARTIST" value="Epic Stock Media"/>
+		<tag name="ALBUM" value="Empire Game"/>
+		<tag name="Software" value="Lavf57.83.100"/>
+		<tag name="YEAR" value="2021-01-22"/>
+		<tag name="comment" value="Empire game - profession - production - complete - crafting sequence - sliding and swiping."/>
+		<tag name="GENRE" value="Comic &amp; Film Fx"/>
+	</tags>
+	<wavetrack name="POST OFFICE BUSY- PAPER MVS" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="50796">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808256.au" len="50796" min="-0.58379" max="0.707984" rms="0.033463"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="513201-Empire-Game-Profession-Production-Complete-Crafting-Sequence-Slide-Swipe-1" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="50796">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808472.au" len="50796" min="-0.825613" max="0.815049" rms="0.064261"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="513201-Empire-Game-Profession-Production-Complete-Crafting-Sequence-Slide-Swipe-1" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="50796">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e3e.au" len="50796" min="-0.846121" max="0.813123" rms="0.068353"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
